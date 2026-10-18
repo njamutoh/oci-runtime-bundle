@@ -1,6 +1,6 @@
 # OCI Runtime Bundle
 
-Creating a runtime-ready OCI bundle from Arch Linux primitives in order to understand what happens underneath when a container runtime runs a container.
+Building an OCI runtime bundle from Arch Linux primitives to understand what happens underneath when containers run.
 
 ## Project Goal
 
