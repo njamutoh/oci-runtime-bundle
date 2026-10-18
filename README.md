@@ -1,6 +1,3 @@
-
-
-```markdown
 # OCI Runtime Bundle
 
 Creating a runtime-ready OCI bundle from Arch Linux primitives in order to understand what happens underneath when a container runtime runs a container.
@@ -27,7 +24,7 @@ My setup is:
 - Python
 - Git
 
-Docker and Podman are deliberately avoided here because they provide many higher-level conveniences that would hide the pieces I am trying to understand.
+Docker and Podman are deliberately avoided here because they provide higher-level conveniences that would hide the pieces I am trying to understand.
 
 ## OCI Runtime Bundle
 
