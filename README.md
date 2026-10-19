@@ -374,5 +374,3 @@ It is a process running with a filesystem and a set of Linux isolation and resou
 
 Working directly with `rootfs`, `config.json`, and `runc` made it much easier to see what higher-level tools such as Docker and Kubernetes are abstracting away.
 ```
-
-One small note before you paste it: if your actual command was `sudo runc run bundle` and that worked from inside the `bundle/` directory, keep it exactly as written. If you were in the parent directory when you ran it, then we should adjust that line before you publish.
